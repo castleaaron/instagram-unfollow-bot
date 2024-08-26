@@ -29,5 +29,5 @@ https://github.com/jj4giya/ity
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/castleaaron/instaunfollow
-   cd instaunfollow
+   git clone https://github.com/castleaaron/instagram-unfollow-bot
+   cd instagram-unfollow-bot
